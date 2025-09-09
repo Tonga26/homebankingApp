@@ -37,7 +37,6 @@ Este proyecto es personal y se encuentra en desarrollo, pensado para practicar p
 
 ## Cómo ejecutar
 1. Clonar el repositorio:
-   '''bash  
    git clone https://github.com/Tonga26/homebankingApp.git
 2. Abrir el poryecto en NetBeans.
 3. Ejecutar la clase Main.java
