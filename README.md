@@ -29,7 +29,7 @@ Este proyecto es personal y se encuentra en desarrollo, pensado para practicar p
 
 ## Tecnologías utilizadas
 
-- Java (versión 17 o la que estés usando)
+- Java (versión 17)
 - NetBeans IDE
 - Git y GitHub para control de versiones
 
