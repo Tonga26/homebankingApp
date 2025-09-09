@@ -41,7 +41,7 @@ Este proyecto es personal y se encuentra en desarrollo, pensado para practicar p
 2. Abrir el poryecto en NetBeans.
 3. Ejecutar la clase Main.java
 
-##Notas
+## Notas
 
 Este proyecto es un work-in-progress y seguirá evolucionando con nuevas funcionalidades y mejoras.
 Cada nueva funcionalidad se desarrollará en ramas separadas para mantener la versión estable principal (main).
